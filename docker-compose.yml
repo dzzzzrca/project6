@@ -1,0 +1,5 @@
+services:
+  postgres-db:
+    image: postgres
+    environment:
+      POSTGRES_PASSWORD: sib6
